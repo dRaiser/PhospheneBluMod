@@ -9,4 +9,4 @@ Fork of Phosphene GTK theme by hdni. This version is for borders only. Adds dark
 
 Using numix-darkblue for window content.
 
-[[http://draiser.net/gfx/phospheneblumod.png | width=804px ]]
+![PhospheneBluMod screenshot](http://draiser.net/gfx/phospheneblumod.png)
