@@ -1,4 +1,4 @@
-#PhospheneDarkBlu
+#PhospheneBluMod
 
 Fork of Phosphene GTK theme by hdni. This version is for borders only. Adds dark blue 2px border on every window, removes window title. Tested in Cinnamon/GNOME 3.
 
